@@ -9,7 +9,7 @@ pageEncoding="ISO-8859-1"%>
 </head>
 <body>
 	<center>
-		<h2>CS640 85446 Web Security Assignment</h2>
+		<h2>CS640 83640 Web Security Assignment</h2>
 		<h3>
 			<a href="hello?name=mohan">Click Here</a>
 		</h3>
